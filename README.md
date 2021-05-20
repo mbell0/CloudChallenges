@@ -10,24 +10,19 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+##  Matts's Cloud Journey
 
-## [✍️ Your Name]'s Cloud Journey
+I am a Technical Project Manager with a background in IT engineering. 
 
-[✍️ Introduce yourself]
+My goal is transition from a PM to a Cloud Engineer.
 
-[✍️ Tell us why you started this challenge]
+At the end of this challenge I want to have gained the skills to operate as a Cloud Engineer. 
 
-[✍️ Tell us where you want to be at the end of the challenge]
-
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- Link to your LinkedIn (https://www.linkedin.com/in/mattbell3)
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
+- [ ] ☁️ 1 > [Installing Terraform](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)

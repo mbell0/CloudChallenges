@@ -1,52 +1,48 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image](tf.png)
 
-# New post title here
+# Installing Terraform
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Terraform is an open source Infrastructure as code tool made by HashiCorp. Its used to deploy infrastructure using the HashiCorp Configuration Language (HCL). It works with multiple providers including Amazon Web Services , Microsoft Azure and Google Cloud. Its easy to read and declarative , meaning you tell Terraform what you want rather than how to build it.  
 
-## Prerequisite
+I have been using it to provision Infrastructure in Azure. This is a short tutorial on how to install Terraform on Windows. This is a short guide on how to install it.   
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+### Step 1  
+\
+Download Terraform — visit https://www.terraform.io/downloads.html and pick the version you need. I am using the Windows 64 bit version.
 
-## Use Case
+### Step 2 
+\
+Create a folder called DevOps on your C: drive . Extract the downloaded file to C:\DevOps\Terraform.
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+### Step 3 
+\
+Now we need to set the System Path , this tells Windows where to find and run Terraform.
 
-## Cloud Research
+### Step 4 
+\
+Now we need to set the System Path , this tells Windows where to find and run Terraform.
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+Open a Run command (Windows Key + R ) and type sysdm.cpl this opens up System Properties. Click on the Advanced tab and then Environment Variables.
 
-## Try yourself
+Click on Path , under the System Variables section and click Edit .
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+Click on New and enter C:\DevOps\Terraform. Terraform is now setup.
 
-### Step 1 — Summary of Step
+NOTE — You can also do this via the cmd line using the set path command.
 
-![Screenshot](https://via.placeholder.com/500x300)
+### Step 5
+\
+To verify the install open cmd or PowerShell and type terraform -version
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
 
 ## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+\
+Terraform is installed 
 
 ## Next Steps
+\
+Provision some infrastructure!
 
-✍️ Describe what you think you think you want to do next.
 
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
