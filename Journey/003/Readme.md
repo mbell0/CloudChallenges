@@ -1,52 +1,31 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+![placeholder image](gith1.png)
+
+# GitHub - Forking
 
 ## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+\
+Most DevOps tutorials offer source code so you can follow along and check your work. One thing that really confused me when starting out was how to get a copy of that code into my GitHub and onto my local machine. It sounded so easy but all the new language confused me — forking and repos! This is a tutorial on how to Fork a repository (copy).
 
 ## Use Case
+\
+Get a copy of code (fork) in your repo and onto your machine so you can follow a tutorial. 
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+## Steps
+\
+On GitHub navigate to the repo you want to fork.  
+\
+In the top right of the corner of page , click Fork  
+\
+You will be taken to your fork  
+\
+Click Code then copy the HTTPS link under the Clone section
 
-## Cloud Research
+![Clone Image](clone.png)  
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+On your PC navigate to where you want the cloned directory
+Run a cmd in that directory and use the git clone command — i.e. git clone https://github.com/mbell0/terraform-dev-env-azure.git
 
-## Try yourself
+Then initialise the directory — git init
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
