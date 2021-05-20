@@ -23,7 +23,7 @@ At the end of this challenge I want to have gained the skills to operate as a Cl
 ## Stepping out the door
 
 - [ ] ☁️ 1 > [Installing Terraform](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
+- [ ] ☁️ 2 > [Creating an Azure AD user with PowerShell](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
