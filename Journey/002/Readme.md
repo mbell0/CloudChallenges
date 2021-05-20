@@ -29,7 +29,7 @@ Something that gets authenticated. Could be a user with a username and password.
 #### **Azure AD Global Administrator**  
 \
 This role is auto assigned to whoever created the Azure AD tenant. Global admins can do all of the admin functions for Azure AD and any serices that federate to Azure AD, such as Exchange Online and SPO. You can have multiple Global admins but only Global admins can assign admin roles. 
-\
+
 
 #### **Azure tenant**
 \
@@ -42,7 +42,7 @@ A dedicated and trusted instance of Azure AD that is created automatically when 
 
 ## Try yourself
 
-I wanted to create the user using Azure Cloud Shell - PowerShell. Rather than doing it by the portal. 
+I wanted to create the user using Azure Cloud Shell - PowerShell. Rather than doing it in the portal. 
 
 ### Step 1 
 
