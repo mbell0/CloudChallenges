@@ -10,7 +10,7 @@ My goal is transition from a PM to a Cloud Engineer.
 
 At the end of this challenge I want to have gained the skills to operate as a Cloud Engineer. 
 
-- Link to your LinkedIn (https://www.linkedin.com/in/mattbell3)
+-LinkedIn (https://www.linkedin.com/in/mattbell3)
 
 ## Stepping out the door
 
