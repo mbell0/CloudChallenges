@@ -22,8 +22,8 @@ At the end of this challenge I want to have gained the necessary skills to opera
 - [ ] ☁️ 6 > [ACG Project: Build your Resume on Azure with Blob Storage, Functions , CosmosDB and GitHub Actions.](https://github.com/mbell0/CV)
 - [ ] ☁️ 7 > [Terraform - HashiCrop Getting Started Documentation Part 1](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [Terraform - HashiCrop Getting Started Documentation Part 2 - Build Infrastructure](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [ ] ☁️ 9 > [Notes on John Savill's Terraform tutorial](Journey/009/Readme.md)
+- [ ] ☁️ 10 > [Tour the N-tier architecture style for your application - MS learn](Journey/010/Readme.md)
 
 ## Walking down the road
 
