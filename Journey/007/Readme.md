@@ -1,52 +1,38 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+![placeholder image](tflogo.png)
+
+# Terraform Getting Started Azure Part 1
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Terraform is used heavily for deploying Infrastructure as Code at my place of work . I have followed various tutorials online but wanted to go through the offical HashiCorp getting started tutorial. 
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Terraform installed (see day 1) , VSCode installed and exts installed. 
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Learn Terraform so I can deploy IaC. 
 
-## Cloud Research
+## Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- Terraform is an Infrastructure of code tool made by HashiCorp. It is used for building, changing and managing infrastructure in a safe and repeatable way. It is written in HCL (HashiCorp Language) .
+- You can use it to deploy resources rather than working in the Azure Portal.
+- Terraform workflow - Scope confrim resources that need creating, Author create the config file , Intialise the directory by running terraform init (will download correct plug ins for provider), Plan and apply the changes , terraform plan , terraform apply. 
+- Advantages of TF 
+  - Platform agnostic can be used with AWS, GCP and others 
+  - State management 
+    - TF creates a state file when initialised its used to create plans and change the infra. 
+    - Operator confidence 
+      - Easily repeatable operations and planning to ensure actions do not cause disruption. 
 
-## Try yourself
+## Provision a NGINX server using Docker 
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+I followed this tutorial on the Terraform Webiste .
 
-### Step 1 — Summary of Step
+[Provision NGINX Server]([link](https://learn.hashicorp.com/tutorials/terraform/install-cli?in=terraform/azure-get-started))
 
-![Screenshot](https://via.placeholder.com/500x300)
+An NGINX Server is open source software used for web serving, caching, load balancing and more. 
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+Docker is OS level virtualisation to deliver software in containers. 

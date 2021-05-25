@@ -20,7 +20,7 @@ At the end of this challenge I want to have gained the necessary skills to opera
 - [ ] ☁️ 4 > [Azure Virtual Machines](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [ACG Project: Build your Resume on Azure with Blob Storage, Functions , CosmosDB and GitHub Actions.](https://github.com/mbell0/CV)
 - [ ] ☁️ 6 > [ACG Project: Build your Resume on Azure with Blob Storage, Functions , CosmosDB and GitHub Actions.](https://github.com/mbell0/CV)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
+- [ ] ☁️ 7 > [Terraform - HashiCrop Getting Started Documentation](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
