@@ -8,7 +8,7 @@ I am a Technical Project Manager with a background in IT engineering.
 
 My goal is transition from a PM to a Cloud Engineer.
 
-At the end of this challenge I want to have gained the skills to operate as a Cloud Engineer. 
+At the end of this challenge I want to have gained the necessary skills to operate as a Cloud Engineer. 
 
 -[LinkedIn](https://www.linkedin.com/in/mattbell3)
 
