@@ -1,13 +1,7 @@
-<!-- This is a template you can use for quick progress days. It removes a lot of the steps we encourage you to share in the longer template 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
+# Notes on John Savill's Terraform tutorial
 
-# New post title here
+## Video Notes 
 
-## Cloud Research
+[YouTube Video - Terraform John Savill](https://www.youtube.com/watch?v=JKVkblsp3cM&t=558s)
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+-

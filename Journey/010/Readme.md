@@ -1,13 +1,7 @@
-<!-- This is a template you can use for quick progress days. It removes a lot of the steps we encourage you to share in the longer template 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
+# Tour the N-tier architecture style for your application - MS learn
 
-# New post title here
+## Notes and learning from tutorial 
 
-## Cloud Research
+[Tour the N-tier architecture style for your application](https://docs.microsoft.com/en-us/learn/modules/n-tier-architecture/)
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+-
